@@ -1,0 +1,65 @@
+[
+  {
+    "title": "React",
+    "url": "https://reactjs.org/",
+    "author": "Jordan Walke",
+    "nickname": "Scheisskopf",
+    "num_comments": 3,
+    "points": 4,
+    "objectID": 0
+  },
+  {
+    "title": "Redux",
+    "url": "https://redux.js.org/",
+    "author": "Dan Abramov and Andrew Clark",
+    "nickname": "The Butt Buddies",
+    "num_comments": 2,
+    "points": 5,
+    "objectID": 1
+  },
+  {
+    "title": "Sass",
+    "url": "https://sass-lang.com/",
+    "author": "Beef Strokemeoff",
+    "nickname": "The Purge",
+    "num_comments": 8,
+    "points": 2,
+    "objectID": 2
+  },
+  {
+    "title": "Bootstrap",
+    "url": "https://getbootstrap.com/",
+    "author": "Yo Mama",
+    "nickname": "I'll smack the taste out of your mouth.",
+    "num_comments": 3,
+    "points": 6,
+    "objectID": 3
+  },
+  {
+    "title": "Express",
+    "url": "http://expressjs.com/",
+    "author": "Dan Abramov and Andrew Clark",
+    "nickname": "The Butt Buddies",
+    "num_comments": 2,
+    "points": 2,
+    "objectID": 4
+  },
+  {
+    "title": "NPM",
+    "url": "https://www.npmjs.com/",
+    "author": "Dan Abramov and Andrew Clark",
+    "nickname": "The Butt Buddies",
+    "num_comments": 9,
+    "points": 7,
+    "objectID": 5
+  },
+  {
+    "title": "MongoDB",
+    "url": "https://www.mongodb.com/",
+    "author": "Dan Abramov and Andrew Clark",
+    "nickname": "The Butt Buddies",
+    "num_comments": 3,
+    "points": 4,
+    "objectID": 6
+  }
+]
